@@ -4,7 +4,7 @@ This is a simple expense tracker program built in Python. It allows users to add
 
 # Preview
 
- ![logo](https://github.com/aniketmondal1210/Expense-Tracker/blob/main/Screenshot%202024-09-24%20182414.png)
+ ![logo](https://github.com/aniketmondal1210/Expense-Tracker/blob/main/Terminal%20Samples.png)
 
 ## Features
 
