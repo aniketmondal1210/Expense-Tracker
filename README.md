@@ -1,10 +1,10 @@
- ![logo](https://drive.google.com/file/d/1-xSg1RhWRCCfkmRPsVHHn5oVxfPlw2VM/view?usp=sharing)
 # Expense Tracker
 
 This is a simple expense tracker program built in Python. It allows users to add, view, edit, delete, filter, and clear expenses from a CSV file. The program also calculates the total of all recorded expenses.
 
 # Preview
 
+ ![logo](https://github.com/aniketmondal1210/Expense-Tracker/blob/main/Screenshot%202024-09-24%20182414.png)
 
 ## Features
 
