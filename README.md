@@ -25,4 +25,4 @@ This is a simple expense tracker program built in Python. It allows users to add
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/aniketmondal1210/expense-tracker.git
